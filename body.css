@@ -1,0 +1,118 @@
+a{ 
+    text-decoration: none;
+}
+
+a ul li {
+    color: rgba(247, 235, 181, 0.863);
+    background-color: black;
+}
+
+a:hover {color: rgb(235, 238, 76);
+    font-size: 0.8rem;
+}
+
+a:active {color: blue;}
+
+
+#ji:hover {
+    font-size: 1.3rem;
+   
+}
+/* a:visited {color:blueviolet} */
+
+*{ background-color:#6f96b3;
+
+    color: rgb(255, 247, 238);}
+.general {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    margin: auto;
+    max-width: 600px;
+    padding-top: 30px;
+   }
+   .table {
+    margin: 10px;
+    padding: 10px;
+   }
+ .avatar {
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(129, 173, 230, 0.25)
+    }
+.btn {
+    background-color: #9bc8eb;
+    color: rgb(255, 255, 255);
+    padding: 5px 15px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  
+    }
+.btn:hover {
+    opacity: 0.8;
+    }    
+
+.lists li {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 20;
+}
+.lists {
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.group h4 {
+    text-align: center;
+
+}
+
+.group label {
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+   
+   
+}
+
+
+input {
+    padding: 2px;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    color: black;
+    
+}
+
+.group{
+    margin: 10px;
+    padding: 3px;
+}
+
+
+#but {
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+
+::placeholder {color:black}
+
+
+
+
+
+  
+
+
+
+
+
+
+ 

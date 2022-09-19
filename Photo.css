@@ -1,0 +1,24 @@
+*{background-color: rgb#6f96b3;}
+
+.photo {
+   display: inline;
+   box-sizing: border-box;
+   overflow: hidden;
+   
+   
+}
+
+.photo img {
+   transition: 1.5s;
+   /* display: inline-block; */
+   width: 24%;
+   border-radius: 10%;
+  }
+
+
+   
+
+.photo img:hover {
+   transform: scale(1.3);
+   
+}
